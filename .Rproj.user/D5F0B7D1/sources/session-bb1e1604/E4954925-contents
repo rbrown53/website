@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - href: Homework/Homework 1 Solutions.html
+        text: Homework 1
 
 format:
   html:
